@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "file",
+  "main": "index.js",
+  "scripts": {
+    "test": "any"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayantan-bhattacharjee/projects-js.git"
+  },
+  "keywords": [
+    "any"
+  ],
+  "author": "Sayantan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayantan-bhattacharjee/projects-js/issues"
+  },
+  "homepage": "https://github.com/sayantan-bhattacharjee/projects-js#readme"
+}
