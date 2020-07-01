@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sayantan-bhattacharjee/projects-js/issues"
   },
-  "homepage": "https://github.com/sayantan-bhattacharjee/projects-js#readme"
+  "homepage": "https://github.com/sayantan-bhattacharjee/projects-js#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
 }
