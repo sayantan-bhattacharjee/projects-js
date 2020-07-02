@@ -1,12 +1,11 @@
 window.onload = function() {
-    console.log('DOM has loaded');
-
-    // Create a Router Constructor
-
+   
     // Grabbing all active attribute routes
     let activeRoutes = Array.from(document.querySelectorAll('[route]'));
 
     console.log(activeRoutes);
+
+    // Create a Router Constructor
 
     let Router = function(name, routes) {
         return {
